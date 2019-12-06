@@ -1,0 +1,17 @@
+﻿@model NCP.Model.Concrete.Cart
+@{
+    Layout = null;
+}
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    <a class="dropdown-item" href="/Cart/Index"> <h5>Cart Summary</h5></a>
+    <div class="dropdown-divider"></div>
+
+    @foreach (var item in Model.CartItems)
+    {
+        <a class="dropdown-item" href="/Cart/Remove/@item.Product.ID"><i class="fa fa-trash-alt text-danger"></i>@Html.DisplayFor(modelItem => item.Quantity)<span class="badge"> x </span>@item.Product.Name @item.Product.UnitPrice</a>
+    }
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="#">Amount : <span class="glyphicon glyphicon-align-left glyphicon-shopping-cart"></span>@Html.DisplayFor(x => x.Amount)</a>
+    <a class="dropdown-item" href="#">Tax : <span class="glyphicon glyphicon-align-left glyphicon-shopping-cart"></span>@Html.DisplayFor(x => x.Tax)</a>
+    <a class="dropdown-item" href="#">Total : <span class="glyphicon glyphicon-align-left glyphicon-shopping-cart"></span>@Html.DisplayFor(x => x.Total)</a>
+</div>

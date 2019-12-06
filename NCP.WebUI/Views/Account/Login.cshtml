@@ -1,0 +1,29 @@
+﻿@model NCP.WebUI.Model.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="Login" method="post">
+            <div class="form-group">
+                @Html.LabelFor(x => x.UserName)
+                @Html.TextBoxFor(x => x.UserName, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.UserName, null, new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.Password)
+                @Html.TextBoxFor(x => x.Password, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Password, null, new { @class = "text-danger" })
+            </div>
+             @Html.ValidationSummary(true, " ", new { @class="text-danger"})
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

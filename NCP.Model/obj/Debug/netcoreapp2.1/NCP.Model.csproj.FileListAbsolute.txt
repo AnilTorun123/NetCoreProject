@@ -1,0 +1,9 @@
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Model\bin\Debug\netcoreapp2.1\NCP.Model.deps.json
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Model\bin\Debug\netcoreapp2.1\NCP.Model.dll
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Model\bin\Debug\netcoreapp2.1\NCP.Model.pdb
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Model\obj\Debug\netcoreapp2.1\NCP.Model.csproj.CoreCompileInputs.cache
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Model\obj\Debug\netcoreapp2.1\NCP.Model.AssemblyInfoInputs.cache
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Model\obj\Debug\netcoreapp2.1\NCP.Model.AssemblyInfo.cs
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Model\obj\Debug\netcoreapp2.1\NCP.Model.dll
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Model\obj\Debug\netcoreapp2.1\NCP.Model.pdb
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Model\obj\Debug\netcoreapp2.1\NCP.Model.csprojAssemblyReference.cache

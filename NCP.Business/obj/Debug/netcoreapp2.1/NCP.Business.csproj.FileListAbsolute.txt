@@ -1,0 +1,14 @@
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\bin\Debug\netcoreapp2.1\NCP.Business.deps.json
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\bin\Debug\netcoreapp2.1\NCP.Business.dll
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\bin\Debug\netcoreapp2.1\NCP.Business.pdb
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\bin\Debug\netcoreapp2.1\NCP.Model.dll
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\bin\Debug\netcoreapp2.1\NCP.Model.pdb
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\obj\Debug\netcoreapp2.1\NCP.Business.csprojAssemblyReference.cache
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\obj\Debug\netcoreapp2.1\NCP.Business.csproj.CoreCompileInputs.cache
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\obj\Debug\netcoreapp2.1\NCP.Business.AssemblyInfoInputs.cache
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\obj\Debug\netcoreapp2.1\NCP.Business.AssemblyInfo.cs
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\obj\Debug\netcoreapp2.1\NCP.Business.csproj.CopyComplete
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\obj\Debug\netcoreapp2.1\NCP.Business.dll
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\obj\Debug\netcoreapp2.1\NCP.Business.pdb
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\bin\Debug\netcoreapp2.1\NCP.DataAccessLayer.dll
+C:\Users\elif.karayel\source\repos\NetCoreProject\NCP.Business\bin\Debug\netcoreapp2.1\NCP.DataAccessLayer.pdb

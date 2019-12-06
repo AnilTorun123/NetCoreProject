@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NCP.DataAccessLayer\NCP.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\NCP.Model\NCP.Model.csproj" />
+  </ItemGroup>
+
+</Project>
